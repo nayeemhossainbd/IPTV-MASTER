@@ -1,0 +1,349 @@
+{
+  "channels": [
+    {
+      "name": "Deshi TV (720p)",
+      "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+      "category": "bangladesh"
+    },
+    {
+      "name": "Somoy News TV (1080p)",
+      "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8",
+      "category": "bangladesh_news"
+    },
+    {
+      "name": "Green TV (1080p)",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
+      "category": "entertainment"
+    },
+    {
+      "name": "Boishakhi TV",
+      "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
+      "category": "bangladesh"
+    },
+    {
+      "name": "Desh TV (1080p)",
+      "url": "https://bozztv.com/rongo/rongo-DeshTV/index.m3u8",
+      "category": "bangladesh"
+    },
+    {
+      "name": "Channel I (720p)",
+      "url": "https://tvsen6.aynaott.com/channeli/index.m3u8",
+      "category": "bangladesh"
+    },
+    {
+      "name": "T Sports (720p)",
+      "url": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
+      "category": "sports"
+    },
+    {
+      "name": "Ekushey TV (480p)",
+      "url": "https://ekusheyserver.com/etvlivesn.m3u8",
+      "category": "bangladesh_news"
+    },
+    {
+      "name": "WAZ TV",
+      "url": "https://tplay.live/originals/ilm-tv/index.m3u8",
+      "category": "islamic"
+    },
+    {
+      "name": "Willow Extra Live",
+      "url": "http://27.124.71.27/Willow_Extra/index.m3u8",
+      "category": "sports"
+    },
+    {
+      "name": "FM Radio",
+      "url": "https://stream.spicefmbd.com/stream.m3u8",
+      "category": "music"
+    },
+    {
+      "name": "Live Quran TV",
+      "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8",
+      "category": "islamic"
+    },
+    {
+      "name": "Motor Vision",
+      "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+      "category": "entertainment"
+    },
+    {
+      "name": "Desh TV (Alt)",
+      "url": "https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8",
+      "category": "bangladesh"
+    },
+    {
+      "name": "A Sports HD",
+      "url": "https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8",
+      "category": "sports"
+    },
+    {
+      "name": "Arabica TV",
+      "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+      "category": "entertainment"
+    },
+    {
+      "name": "Saudi Arabia TV",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+      "category": "international"
+    },
+    {
+      "name": "Bein Sports 1",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
+      "category": "sports"
+    },
+    {
+      "name": "BBC Cbeebies",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
+      "category": "kids"
+    },
+    {
+      "name": "Cartoon Network",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
+      "category": "kids"
+    },
+    {
+      "name": "A Spor",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
+      "category": "sports"
+    },
+    {
+      "name": "PBS Kids",
+      "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+      "category": "kids"
+    },
+    {
+      "name": "Sunnah TV",
+      "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
+      "category": "islamic"
+    },
+    {
+      "name": "Quran TV",
+      "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+      "category": "islamic"
+    },
+    {
+      "name": "BTV",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8",
+      "category": "bangladesh"
+    },
+    {
+      "name": "Jumuna TV",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
+      "category": "bangladesh_news"
+    },
+    {
+      "name": "Travel XP English NZ",
+      "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8",
+      "category": "travel"
+    },
+    {
+      "name": "Somoy TV",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8",
+      "category": "bangladesh_news"
+    },
+    {
+      "name": "Ekattor HD 71",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8",
+      "category": "bangladesh_news"
+    },
+    {
+      "name": "Channel 24",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8",
+      "category": "bangladesh_news"
+    },
+    {
+      "name": "AL EKHBARIA",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+      "category": "news_international"
+    },
+    {
+      "name": "Saudi Quran",
+      "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+      "category": "islamic"
+    },
+    {
+      "name": "Independent TV",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8",
+      "category": "bangladesh_news"
+    },
+    {
+      "name": "Madani TV",
+      "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+      "category": "islamic"
+    },
+    {
+      "name": "DW News",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8",
+      "category": "news_international"
+    },
+    {
+      "name": "NTV",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8",
+      "category": "bangladesh"
+    },
+    {
+      "name": "Channel I (HD)",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8",
+      "category": "bangladesh"
+    },
+    {
+      "name": "AL QAMAR",
+      "url": "https://streamer3.premio.link/alqamar/playlist.m3u8",
+      "category": "islamic"
+    },
+    {
+      "name": "CNN (US)",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+      "category": "news_international"
+    },
+    {
+      "name": "France 24 English",
+      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
+      "category": "news_international"
+    },
+    {
+      "name": "NDTV News",
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8",
+      "category": "news_international"
+    },
+    {
+      "name": "TRT World",
+      "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+      "category": "news_international"
+    },
+    {
+      "name": "EWTN TV",
+      "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8",
+      "category": "religious"
+    },
+    {
+      "name": "Travel XP EU",
+      "url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "category": "travel"
+    },
+    {
+      "name": "France 24 English (Alt)",
+      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
+      "category": "news_international"
+    },
+    {
+      "name": "RT News Global",
+      "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1",
+      "category": "news_international"
+    },
+    {
+      "name": "Insight TV",
+      "url": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+      "category": "entertainment"
+    },
+    {
+      "name": "Global News (US)",
+      "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8",
+      "category": "news_international"
+    },
+    {
+      "name": "NewsMax",
+      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+      "category": "news_international"
+    },
+    {
+      "name": "RT News USA",
+      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1",
+      "category": "news_international"
+    },
+    {
+      "name": "RT News English",
+      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+      "category": "news_international"
+    },
+    {
+      "name": "Goldmines Movies",
+      "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8",
+      "category": "movies"
+    },
+    {
+      "name": "Goldmines Bollywood",
+      "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
+      "category": "movies"
+    },
+    {
+      "name": "Sheemaroo Bollywood",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+      "category": "movies"
+    },
+    {
+      "name": "Action Hollywood Movies",
+      "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist.m3u8",
+      "category": "movies"
+    },
+    {
+      "name": "Hindi Movies",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8",
+      "category": "movies"
+    },
+    {
+      "name": "YRF Music HD",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+      "category": "music"
+    },
+    {
+      "name": "Music India",
+      "url": "http://103.175.73.12:8080/live/158/158_0.m3u8",
+      "category": "music"
+    },
+    {
+      "name": "9XM",
+      "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
+      "category": "music"
+    },
+    {
+      "name": "E24",
+      "url": "http://103.175.73.12:8080/live/159/159_0.m3u8",
+      "category": "music"
+    },
+    {
+      "name": "Dhoom Music",
+      "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+      "category": "music"
+    },
+    {
+      "name": "Star Sports 1 HD",
+      "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+      "category": "sports"
+    },
+    {
+      "name": "PTV Sports",
+      "url": "http://119.156.228.231:9983/stream/channelid/679185749?ticket=DED82FB8AE85893524A1035AAE7CD187020FFA04&profile=pass",
+      "category": "sports"
+    },
+    {
+      "name": "Live Sports",
+      "url": "https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8",
+      "category": "sports"
+    },
+    {
+      "name": "Sports Range",
+      "url": "https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8",
+      "category": "sports"
+    },
+    {
+      "name": "Doraemon",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+      "category": "kids"
+    },
+    {
+      "name": "Tom & Jerry",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+      "category": "kids"
+    },
+    {
+      "name": "Motu Patlu",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8",
+      "category": "kids"
+    },
+    {
+      "name": "Rongeen TV",
+      "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+      "category": "bangladesh_kids"
+    }
+  ]
+}
